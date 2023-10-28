@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @B40nishant
-- 👀 I’m interested in python program
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on any social media 
-- 📫 How to reach me _nishantlandage_ my instagram ID
 
 <!---
 B40nishant/B40nishant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
